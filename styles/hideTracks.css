@@ -1,0 +1,18 @@
+:root {
+    --myDisplay: block;
+}
+
+.playlist-sounds .sound-name {
+    display: var(--myDisplay);
+}
+
+.playlist-sounds .sound .sound-controls {
+    display: var(--myDisplay);
+}
+.playlist-sounds .sound .sound-playback .sound-control {
+    display: var(--myDisplay);
+}
+
+.playlist-header .sound-controls {
+    display: var(--myDisplay);
+}
