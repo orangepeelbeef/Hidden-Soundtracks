@@ -10,3 +10,5 @@
 
 
 Hides the soundtrack name and the playlist controlls from non GM accounts (as they cant use it anyway)
+
+![image](https://user-images.githubusercontent.com/1347785/121269653-1feb8b00-c8b8-11eb-8f20-f247488efd6d.png)
