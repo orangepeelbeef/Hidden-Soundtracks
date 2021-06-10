@@ -1,18 +1,20 @@
 :root {
+    --myHidden: initial;
     --myDisplay: block;
+    --myFlex: flex;
 }
 
-.playlist-sounds .sound-name {
+#currently-playing .playlist-sounds .sound > .sound-name {
     display: var(--myDisplay);
 }
 
-.playlist-sounds .sound .sound-controls {
-    display: var(--myDisplay);
+#currently-playing .playlist-sounds .sound > .sound-controls {
+    display: var(--myFlex);
 }
-.playlist-sounds .sound .sound-playback .sound-control {
+#currently-playing .playlist-sounds .sound .sound-playback .sound-control {
     display: var(--myDisplay);
 }
 
-.playlist-header .sound-controls {
+#playlists .directory-list {
     display: var(--myDisplay);
 }
