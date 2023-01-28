@@ -20,7 +20,7 @@
   "styles": [
     "/styles/hideTracks.css"
   ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced"
+  "url": "https://github.com/kandashi/Hidden-Soundtracks",
+  "manifest": "https://raw.githubusercontent.com/niuserre/Hidden-Soundtracks/master/module.json",
+  "download": "https://github.com/niuserre/Hidden-Soundtracks/archive/refs/tags/0.1.04.zip"
 }
