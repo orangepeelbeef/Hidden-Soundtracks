@@ -2,7 +2,7 @@
   "name": "hidden-soundtracks",
   "title": "Hidden Soundtracks",
   "description": "Removes soundtrack names and un-usable controls from non GM clients",
-  "version": "This is auto replaced",
+  "version": "0.1.06",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
@@ -28,5 +28,5 @@
   ],
   "url": "https://github.com/orangepeelbeef/Hidden-Soundtracks",
   "manifest": "https://raw.githubusercontent.com/orangepeelbeef/Hidden-Soundtracks/master/module.json",
-  "download": "https://github.com/orangepeelbeef/Hidden-Soundtracks/archive/refs/tags/0.1.05.zip"
+  "download": "https://github.com/orangepeelbeef/Hidden-Soundtracks/archive/refs/tags/0.1.06.zip"
 }
