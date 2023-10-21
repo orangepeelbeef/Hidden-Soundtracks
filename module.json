@@ -1,13 +1,19 @@
 {
-  "name": "hiddensoundtracks",
+  "name": "hidden-soundtracks",
   "title": "Hidden Soundtracks",
   "description": "Removes soundtrack names and un-usable controls from non GM clients",
   "version": "This is auto replaced",
-  "library": "false",
-  "manifestPlusVersion": "1.0.0",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "9",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
   "authors": [
+    {
+      "name": "orangepeelbeef"
+    },
+    {
+      "name": "niuserre"
+    },
     {
       "name": "Kandashi",
       "url": "https://github.com/Kandashi",
@@ -20,7 +26,7 @@
   "styles": [
     "/styles/hideTracks.css"
   ],
-  "url": "https://github.com/kandashi/Hidden-Soundtracks",
-  "manifest": "https://raw.githubusercontent.com/niuserre/Hidden-Soundtracks/master/module.json",
-  "download": "https://github.com/niuserre/Hidden-Soundtracks/archive/refs/tags/0.1.04.zip"
+  "url": "https://github.com/orangepeelbeef/Hidden-Soundtracks",
+  "manifest": "https://raw.githubusercontent.com/orangepeelbeef/Hidden-Soundtracks/master/module.json",
+  "download": "https://github.com/orangepeelbeef/Hidden-Soundtracks/archive/refs/tags/0.1.05.zip"
 }
